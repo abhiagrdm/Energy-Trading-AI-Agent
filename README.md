@@ -77,6 +77,5 @@ streamlit run PowerTrading_AgAI.py
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+*Author: Abhishek Agrawal · MBA Finance · 2026*
+*Connect: https://www.linkedin.com/in/abhisheka24 · abhishek.iitk.mba@gmail.com*
