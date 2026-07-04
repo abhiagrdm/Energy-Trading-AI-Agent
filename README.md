@@ -36,7 +36,7 @@ The app uses a **3-agent pipeline** orchestrated by LangGraph:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/abhiagrdm/Energy-Trading-AI-Agent.git 
 cd YOUR_REPO_NAME
 ```
 
