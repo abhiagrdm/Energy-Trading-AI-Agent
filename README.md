@@ -1,4 +1,4 @@
-# ⚡ Autonomous Energy Trading Desk
+# Autonomous Energy Trading Desk
 
 An AI-powered market surveillance system for Indian energy stocks, built with a multi-agent architecture. It fetches live market data, gathers news intelligence via Perplexity AI, and generates a trading decision (CHARGE / DISCHARGE / HOLD) for grid-connected battery storage systems.
 
